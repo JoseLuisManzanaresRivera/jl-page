@@ -1,0 +1,25 @@
+name: 4insight
+output_dir: '.'
+navbar:
+  title: Research
+  left:
+  - text: Investigación
+    href: index.html
+  - text: Semblanza
+    href: about.html
+  - text: Cursos
+    href: Cursos.html
+  - text: Podcast
+    href: audio.html
+  - text: Documentaries & Interviews
+  - text: Documentales
+    href: video.html
+  - text: Contacto
+    href: contacto.html
+output:
+  html_document:
+    theme: united
+    highlight: textmate
+    lib_dir: site_libs
+    self_contained: no
+
