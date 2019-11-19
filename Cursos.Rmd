@@ -1,0 +1,129 @@
+---
+title: "Cursos"
+---
+
+
+*2018* Teoría Económica. Maestría en Desarrollo Regional.       *Semestre 2018-01* 
+
+*2018* Economía Ambiental y Ecológica el Agua. 
+Maestría en gestión Integral del Agua. *Semestre 2018-01*
+[MAGIA-101-EAyEA-2018]()
+
+
+*2019* Estadística II. Maestría en Estudios de Población. 
+*Semestre 2019-02*  
+Colef Tijuana.
+
+```{r,echo = FALSE ,out.width = "200px"}
+
+knitr::include_graphics("https://res.cloudinary.com/jlmrpics/image/upload/v1558763684/foto_7_wtlm4c.jpg")
+```
+
+*2018* Teoría Económica.  Maestría en Desarrollo Regional.       *Semestre 2018-01* 
+
+Colef Tijuana.
+
+*2018* Economía Ambiental y Ecológica el Agua. 
+Maestría en gestión Integral del Agua. *Semestre 2018-01*
+[MAGIA-101-EAyEA-2018]()  
+
+Colef Monterrey.
+
+
+*2017* Instrumentos económicos para la gestión de los recursos hídricos
+Maestría en gestión Integral del Agua. *Semestre 2017-01*
+
+*2017* Sistemas Integrados de información de Tierra y Agua
+Maestría en gestión Integral del Agua. *Semestre 2017-01*
+
+*2016* Seminario de Titulación II
+Maestría en gestión Integral del Agua. *Semestre 2016-01*
+
+*2016* Seminario de Tesis
+Maestría en Economía Aplicada.         *Semestre 2016-01*
+
+*2016* Propedéutico Estadística
+Maestría en gestión Integral del Agua. *Semestre 2016-02*
+
+
+Colef Monterrey
+
+*2017* Sistemas Integrados de información de Tierra y Agua
+Maestría en gestión Integral del Agua. *Semestre 2017-01*
+
+Colef Monterrey
+
+*2016* Seminario de Titulación II
+Maestría en gestión Integral del Agua. *Semestre 2016-01*
+
+Colef Monterrey
+
+*2016* Seminario de Tesis
+Maestría en Economía Aplicada.         *Semestre 2016-01*
+
+Colef Tijuana
+
+*2016* Propedéutico Estadística
+Maestría en gestión Integral del Agua. *Semestre 2016-02*
+
+Colef Monterrey
+
+
+*2015* Instrumentos económicos para la gestión de los recursos hídricos.
+Maestría en gestión Integral del Agua. *Semestre 2015-01*
+
+*2015* Econometría II
+Maestría en Economía Aplicada.         *Semestre 2015-02*
+
+## Summer Data Science Workshop.
+
+**2018**  Herramientas de análisis Estadístico
+
+Colef Monterrey
+
+
+*2015* Econometría II
+Maestría en Economía Aplicada.         *Semestre 2015-02*
+
+Colef Tijuana
+
+
+
+## Summer Data Science Workshop.
+
+**2018**  Herramientas de análisis Estadístico.
+
+
+
+## Estancias Académicas
+
+Visiting Scholar
+University of Technology Sydney, Australia. **2009**
+Supervisor: Associate Professor Dr. Beatriz carrillo García y Yingjie Guo
+Yingjie.Guo@uts.edu.au  
+
+Estancia académica de investigación en el marco de la formación de consorcios  de centros públicos de investigación.
+**Lugar:** Centro de Investigación y Docencia Económicas CIDE **2017**
+
+Estancia Academica de investigación Economía Aplicada en la línea Economía Medio Ambiente Salud. 
+**Lugar:** Centro de Investigación y Docencia Económicas CIDE **2018**
+
+
+### Recent Talks.
+
+**2019** Universidad Caltólica de Temuco, **Chile**. 
+Laboratorio de planificación territorial.  
+XL Congreso Nacional y XXV Internacional de Geografía.
+
+**2018** Universidad Iberoamericana, Puebla.
+8° Congreso Latinoamericano de Población. 
+
+
+
+**2017**  Universidad de La Frontera. Temuco, **Chile**
+XXXVIII Congreso Nacional y XXIII Internacional de Geografía.
+
+
+
+
+
