@@ -18,7 +18,7 @@ knitr::include_graphics("https://res.cloudinary.com/jlmrpics/image/upload/v15581
 ### Proyecto: Impactos ambientales de la actividad económica
 ***
 
-Es un esfuezo de investigación que incorpora herramientas de análisis como imagenes obtenidas mediante percepción remota principalmente de los proyectos  Sentinel2 y  Landsat 7 y 8 Thematic mapper y se orienta al estudio de fenómenos ambientales. Como área complementaria de exploración en este proyecto se desarrolla investigación sobre el uso de los recursos hídricos  en el conexto de México.
+Es un esfuezo de investigación que incorpora herramientas de análisis como imagenes obtenidas mediante percepción remota principalmente de los proyectos  Sentinel2 y  Landsat 7 y 8 Thematic mapper y se orienta al estudio de fenómenos ambientales. Como área complementaria de exploración en este proyecto se desarrolla investigación sobre el uso de los recursos hídricos  en el conexto de .
 
 ### Resultados de investigación. 
 

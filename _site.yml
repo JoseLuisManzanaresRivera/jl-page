@@ -11,7 +11,6 @@ navbar:
     href: Cursos.html
   - text: Podcast
     href: audio.html
-  - text: Documentaries & Interviews
   - text: Documentales
     href: video.html
   - text: Contacto
