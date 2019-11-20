@@ -16,14 +16,6 @@ title: "Podcast"
 knitr::include_graphics("https://res.cloudinary.com/jlmrpics/image/upload/v1558633624/saludenlafrontera_lmnand.png")
 ```
 
-![](IMER.mp3)
-
-
-```{r,echo = FALSE ,out.width = "400px"}
-
-knitr::include_graphics("https://res.cloudinary.com/jlmrpics/image/upload/v1558633624/saludenlafrontera_lmnand.png")
-```
-
 ![Radio Colmich.Radio UABC Frontera Común](fronteracomun23may2019.mp3)
 
 
