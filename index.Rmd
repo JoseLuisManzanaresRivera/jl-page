@@ -18,7 +18,7 @@ knitr::include_graphics("https://res.cloudinary.com/jlmrpics/image/upload/v15581
 ### Proyecto: Impactos ambientales de la actividad económica
 ***
 
-Es un esfuezo de investigación que incorpora herramientas de análisis como imagenes obtenidas mediante percepción remota principalmente de los proyectos  Sentinel2 y  Landsat 7 y 8 Thematic mapper y se orienta al estudio de fenómenos ambientales. Como área complementaria de exploración en este proyecto se desarrolla investigación sobre el uso de los recursos hídricos  en el conexto de .
+Es un esfuezo de investigación que incorpora herramientas de análisis como imágenes obtenidas mediante percepción remota principalmente de los proyectos  Sentinel2 y  Landsat 7 y 8 Thematic mapper y se orienta al estudio de fenómenos ambientales. Como área complementaria de exploración en este proyecto se desarrolla investigación sobre el uso de los recursos hídricos  en el conexto de .
 
 ### Resultados de investigación. 
 
@@ -35,20 +35,21 @@ Manzanares Rivera, José Luis,  2014, ["Uso de agua en la extracción de gas de 
 
 
 
-### Proyecto: Social Determinants of Health in México. (SDHmx)
+### Proyecto: Expresiones territoriales de Salud pública. 
+***
+La investigación  en esta línea busca situar las expresiones de salud en su contexto territorial.  Especialmente se analizan los procesos de salud enfermedad desde una perspectiva multidisciplinaria, considerando el impacto regional de los grandes problemas nacionales en materia de salud pública. 
+Esta línea de investigación ha resultado en publicaciones en revistas especializadas en países como  Argentina, Colombia, Costa Rica y Estados Unidos.
 
-La investigación  en esta línea busca situar las expresiones de salud en su contexto social.  Especialmente se analizan los procesos de salud enfermedad desde una perspectiva multidisciplinaria, considerando el impacto regional de los grandes problemas nacionales en materia de salud pública. 
-Esta línea de investigación ha resultado en publicaciones en revistas especializadas líderes en el campo  posicionando el trabajo del El Colef en países como  Argentina, Colombia, Costa Rica y Estados Unidos.
-
-Adicionalmente se han generado investigaciones pioneras en México en respuesta a convocatorias internacionales de instituciones como la Organización Panamericana de salud (PAHO) ante emergencias de  salud pública internacional como el caso del brote del virus Zika. E investigaciones recientes que contrastan la evolución en las fronteras de México de epidemias por padecimientos crónicos degenerativos como la Diabetes tipo II que por su magnitud se consideran de alto impacto para el bienestar de la población en México y un riesgo financiero para el sistema de salud.
+Adicionalmente se han generado investigaciones pioneras en México en respuesta a convocatorias internacionales de instituciones como la Organización Panamericana de salud (PAHO) ante emergencias de  salud pública internacional como el caso del brote del virus Zika. 
+E investigaciones recientes que contrastan la evolución en las fronteras de México de epidemias por padecimientos crónicos degenerativos como la Diabetes tipo II que por su magnitud se consideran de alto impacto para el bienestar de la población en México y un riesgo financiero para el sistema de salud.
 
 ### Resultados de investigación. 
 
-<<<<<<< HEAD
+
 Manzanares Rivera, José Luis,  2019, [Síndrome de dificultad respiratoria del recién nacido en México: Oportunidades para el diseño de estrategias de prevención.](https://revistas.javeriana.edu.co/index.php/gerepolsal/index) *Forthcoming*, núm. 36, enero-junio, *Revista Gerencia y Políticas de Salud*. Colombia.
-=======
+
 Manzanares Rivera, José Luis,  2019, [Síndrome de dificultad respiratoria del recién nacido en México: Oportunidades para el diseño de estrategias de prevención.](https://revistas.javeriana.edu.co/files-articulos/RGPS/18-36%20(2019-I)/54559086001/), núm. 36, Vol.18, enero-junio, *Revista Gerencia y Políticas de Salud*. Colombia. Pontificia Universidad Javeriana.
->>>>>>> 553f63e0d2ba699351bd27cb140bd6fdb2840561
+
  
 Manzanares Rivera, José Luis,  2018, ["Manifestaciones de salud asociadas a elementos medio ambientales: el caso de la ocurrencia de coccidioidomicosis en México 2004-2015",](https://revistas.ucr.ac.cr/index.php/psm/article/view/30201)  Población y Salud en Mesoamérica, Costa Rica,  vol. 15, núm. 2, pp. 1-24.
 
@@ -67,6 +68,7 @@ Manzanares Rivera, José Luis,  2016, ["Expenditure patterns and social determin
 #### Health policy 
 
 Manzanares Rivera, José Luis,  2017, ["Does the border matter for health care? A study of medical services provider?s location at cities in the Mexican side of the border",](http://www.scielo.org.mx/pdf/estfro/v18n36/2395-9134-estfro-18-36-00151-es.pdf)  Estudios Fronterizos. Revista de Ciencias Sociales y Humanidades, México,  vol. 18, núm. 36, pp. 151-168.
+
 
 
 ###  Proyecto: Public Policy Analysis (PPA).
@@ -96,4 +98,4 @@ Manzanares Rivera, José Luis,  2013, ["Pobreza y el uso de seguro médico públ
 
 ### Developing research
 
-+ Health economics
++ Desarrollo Sostenible
