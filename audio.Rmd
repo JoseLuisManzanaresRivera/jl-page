@@ -11,7 +11,7 @@ title: "Podcast"
 
 ### Radio Colmich.
 
-```{r,echo = FALSE,  out.width = "50px"}
+```{r, include=FALSE, out.width = "50px"}
 
 knitr::include_graphics("https://res.cloudinary.com/jlmrpics/image/upload/v1558633624/saludenlafrontera_lmnand.png")
 ```
