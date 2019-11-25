@@ -3,7 +3,7 @@ title: "José Luis Manzanares Rivera"
 ---
 ```{r,echo = FALSE,out.width = "100px"}
 
-knitr::include_graphics("https://drive.google.com/file/d/11TaPrlG72NQhM7bKnwaEO3B6Jz3jMjT4/view?usp=sharing")
+knitr::include_graphics("https://res.cloudinary.com/joseluismanzanaresrivera/image/upload/v1574706431/20170424_104938_khvun0.jpg")
 ```
 
 
