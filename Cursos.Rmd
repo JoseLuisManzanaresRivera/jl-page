@@ -2,6 +2,11 @@
 title: "Cursos"
 ---
 
+*2021* Herramientas para análisis estadístico Maestría en Desarrollo Regional. *Semestre 2021-01*
+
+*2019* Estadística II. Maestría en Estudios de Población. 
+*Semestre 2019-02*  
+Colef Tijuana.
 
 *2018* Teoría Económica. Maestría en Desarrollo Regional.       *Semestre 2018-01* 
 
@@ -10,14 +15,11 @@ Maestría en gestión Integral del Agua. *Semestre 2018-01*
 [MAGIA-101-EAyEA-2018]()
 
 
-*2019* Estadística II. Maestría en Estudios de Población. 
-*Semestre 2019-02*  
-Colef Tijuana.
-
 ```{r,echo = FALSE ,out.width = "200px"}
 
 knitr::include_graphics("https://res.cloudinary.com/jlmrpics/image/upload/v1558763684/foto_7_wtlm4c.jpg")
 ```
+
 
 *2018* Teoría Económica.  Maestría en Desarrollo Regional.       *Semestre 2018-01* 
 
@@ -103,11 +105,13 @@ Supervisor: Associate Professor Dr. Beatriz carrillo García y Yingjie Guo
 Yingjie.Guo@uts.edu.au  
 
 Estancia académica de investigación en el marco de la formación de consorcios  de centros públicos de investigación.
-**Lugar:** Centro de Investigación y Docencia Económicas CIDE **2017**
+**Lugar:** Centro de Investigación y Docencia Económicas **CIDE** **2017**
 
 Estancia Academica de investigación Economía Aplicada en la línea Economía Medio Ambiente Salud. 
-**Lugar:** Centro de Investigación y Docencia Económicas CIDE **2018**
+**Lugar:** Centro de Investigación y Docencia Económicas **CIDE** **2018**
 
+Estancia Académica de investigación. Linea de investigación  manejo de datos.  **Lugar:**
+Centro de Investigación e Innovación en Tecnologías de la Información y Comunicación **INFOTEC**. **2019**
 
 ### Recent Talks.
 
@@ -117,7 +121,6 @@ XL Congreso Nacional y XXV Internacional de Geografía.
 
 **2018** Universidad Iberoamericana, Puebla.
 8° Congreso Latinoamericano de Población. 
-
 
 
 **2017**  Universidad de La Frontera. Temuco, **Chile**
