@@ -3,6 +3,7 @@ title: "Cursos"
 ---
 
 *2021* Herramientas para análisis estadístico Maestría en Desarrollo Regional. *Semestre 2021-01*
+Colef
 
 *2019* Estadística II. Maestría en Estudios de Población. 
 *Semestre 2019-02*  
