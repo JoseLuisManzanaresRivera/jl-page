@@ -9,9 +9,14 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Dirección
 
+
+
 ## Lectorias
 
-**Titulo:** ANÁLISIS DEL ENDEUDAMIENTO, LA OFERTA DE BIENES PÚBLICOS Y EL IMPACTO DE LAS TRANSFERENCIAS INTERGUBERNAMENTALES EN LOS GOBIERNOS LOCALES DE MÉXICO [Tesis](https://colef.repositorioinstitucional.mx/jspui/handle/1014/352)
+**Titulo:** Análisis del endeudamiento, la oferta de bienes públicos y el impacto de las transferencias intergubernamentales en los gobiernos locales de México.  [Tesis](https://colef.repositorioinstitucional.mx/jspui/handle/1014/352)
 
 **Año:** 2014
+
 **Programa:** Maestría en Economía Aplicada
+
+
