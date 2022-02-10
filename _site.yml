@@ -9,12 +9,13 @@ navbar:
     href: about.html
   - text: Cursos
     href: Cursos.html
-  - text: Podcast
-    href: audio.html
-  - text: Tv & Multimedia
+  - text: Tesis
+    href: Tesis.html
+  - text: Difusión
     href: video.html
   - text: Contacto
     href: contacto.html
+  
 output:
   html_document:
     theme: united

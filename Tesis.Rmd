@@ -7,11 +7,11 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Dirección
+### Dirección
 
 
 
-## Lectorias
+### Lectorias
 
 **Titulo:** Análisis del endeudamiento, la oferta de bienes públicos y el impacto de las transferencias intergubernamentales en los gobiernos locales de México.  [Tesis](https://colef.repositorioinstitucional.mx/jspui/handle/1014/352)
 
@@ -20,3 +20,9 @@ knitr::opts_chunk$set(echo = TRUE)
 **Programa:** Maestría en Economía Aplicada
 
 
+
+**Titulo:**Consumo de electricidad y crecimiento económico en México: análisis de series de tiempo y prospectiva.
+
+**Año:** 2016
+
+**Programa:** Maestría en Economía Aplicada
