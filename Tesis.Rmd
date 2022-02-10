@@ -1,5 +1,5 @@
 ---
-title: "Tesis"
+title: ""
 output: html_document
 ---
 
@@ -7,22 +7,52 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-### Dirección
-
-
-
-### Lectorias
-
-**Titulo:** Análisis del endeudamiento, la oferta de bienes públicos y el impacto de las transferencias intergubernamentales en los gobiernos locales de México.  [Tesis](https://colef.repositorioinstitucional.mx/jspui/handle/1014/352)
+## Dirección
 
 **Año:** 2014
 
-**Programa:** Maestría en Economía Aplicada
+> **[Titulo:](https://www.colef.mx/posgrado/wp-content/uploads/2014/11/Tesis-Escobedo-Gonzalez.pdf)** La pérdida de empleo en las ciudades Méxicanas: Su relación con las características individuales y la recesión del 2008.
 
+**Nombre del Alumno:** Jaime Jovanny Escobedo Gonzalez
 
+**Programa:** Maestría en Economía Aplicada.
 
-**Titulo:**Consumo de electricidad y crecimiento económico en México: análisis de series de tiempo y prospectiva.
+---
+
+## Lectorias.
+
+**Año:** 2022
+
+>**[Titulo]()**  Análisis comparativo de las variaciones climáticas y modo de producción de miel en el corredor Balaan Kaax. Calakmul.
+
+**Nombre del Alumno:** María José Buzo Rodríguez .
+
+**Programa:** Maestría en Gestión Integral del Ambiente.
+
 
 **Año:** 2016
 
-**Programa:** Maestría en Economía Aplicada
+>**[Titulo](https://colef.repositorioinstitucional.mx/jspui/handle/1014/363)** La adopción de tecnología como una forma de internalizar las externalidades ambientales del beneficiado de quinua en Oruro Bolivia 
+
+**Nombre del Alumno:** María Teresa Del Barco Gamarra.
+
+**Programa:** Maestría en Gestión Integral del Agua
+
+
+**Año:** 2016
+
+>**[Titulo:](https://colef.repositorioinstitucional.mx/jspui/handle/1014/353) **Consumo de electricidad y crecimiento económico en México: análisis de series de tiempo y prospectiva.
+
+**Programa:** Maestría en Economía Aplicada.
+
+**Nombre del Alumno:** Nayib René Zamarripa Villa.
+
+
+**Año:** 2014
+
+> **[Titulo:](https://colef.repositorioinstitucional.mx/jspui/handle/1014/352)** Análisis del endeudamiento, la oferta de bienes públicos y el impacto de las transferencias intergubernamentales en los gobiernos locales de México.  
+
+**Nombre del Alumno:** Adriana del Rocío Montelongo Jaime.
+
+**Programa:** Maestría en Economía Aplicada.
+
