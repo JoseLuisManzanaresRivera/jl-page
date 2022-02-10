@@ -21,7 +21,7 @@ knitr::include_graphics("https://res.cloudinary.com/jlmrpics/image/upload/v15586
 
 # Prensa
 
-[Notas de difusión](https://www.colef.mx/estemes/las-causas-detras-de-las-causas-de-la-diabetes/)
+[Colef Press](https://www.colef.mx/estemes/las-causas-detras-de-las-causas-de-la-diabetes/)
 
 
 
