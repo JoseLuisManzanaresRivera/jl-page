@@ -2,24 +2,38 @@
 title: ""
 ---
 
-# Radio y Prensa
 
-## Instituto Mexicano de la Radio IMER. Día Mundial del Agua.
+### Web streaming & TV.
+
+#### Canal 11 Programa Diálogos desde la frontera. 
+<iframe width="400" height="250" src="https://www.youtube.com/embed/uJMiS4pNzQ4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### Seminario Colef Sede Nogales, Sonora.
+
+<iframe width="400" height="250" src="https://www.youtube.com/embed/MDSAu8UdRUQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
+
+### Radio y Prensa
+
+#### Instituto Mexicano de la Radio IMER. Día Mundial del Agua.
 
 ![IMER](IMER.mp3)
 
 
-## Radio Colmich.
+#### Radio Colmich.
 
 ```{r, echo=FALSE, out.width = "100px"}
 
-knitr::include_graphics("https://res.cloudinary.com/jlmrpics/image/upload/v1558633624/saludenlafrontera_lmnand.png")
+knitr::include_graphics("https://res.cloudinary.com/jlmrpics/image/upload/v1646157755/img2_ezb4ol.png")
 ```
 
 ![Radio Colmich.Radio UABC Frontera Común](fronteracomun23may2019.mp3)
 
 
-# Prensa
+### Prensa
 
 [Colef Press](https://www.colef.mx/estemes/las-causas-detras-de-las-causas-de-la-diabetes/)
 
@@ -29,22 +43,11 @@ knitr::include_graphics("https://res.cloudinary.com/jlmrpics/image/upload/v15586
 
 
 
-# Web streaming & TV.
-
-
-### Seminario Colef Sede Nogales, Sonora.
-
-<iframe width="917" height="516" src="https://www.youtube.com/embed/MDSAu8UdRUQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-### Canal 11 Programa Diálogos desde la frontera. 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uJMiS4pNzQ4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
-
-### Migración y escasez hídrica.La migración Menonita desde México. 
-![Día Mundial](Presentacion_MTY.mp4)
+#### Seminario Colef Monterrey. Día mundial del Agua.   
+![](Presentacion_MTY.mp4)
 
 
 
