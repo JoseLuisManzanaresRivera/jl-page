@@ -14,6 +14,11 @@ title: ""
 
 
 
+#### Seminario. Infotec Aguascalientes
+**Abril 8 2019**
+
+<iframe width="400" height="250" src="https://www.youtube.com/embed/hlPkDETcKmk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
 ### Radio y Prensa
@@ -49,8 +54,3 @@ knitr::include_graphics("https://res.cloudinary.com/jlmrpics/image/upload/v16461
 #### Seminario Colef Monterrey. Día mundial del Agua.   
 ![](Presentacion_MTY.mp4)
 
-
-
-#### Seminario. Infotec Aguascalientes
-
-<iframe width="400" height="250" src="https://www.youtube.com/embed/hlPkDETcKmk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
