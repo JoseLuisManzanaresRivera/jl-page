@@ -51,4 +51,10 @@ knitr::include_graphics("https://res.cloudinary.com/jlmrpics/image/upload/v16461
 
 
 
+#### Seminario. Infotec Aguascalientes. 
+![](Presentacion_MTY.mp4)
 
+
+```
+{{%/* youtube "wC5pJm8RAu4" */%}}
+``
