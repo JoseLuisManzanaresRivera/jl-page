@@ -56,5 +56,5 @@ knitr::include_graphics("https://res.cloudinary.com/jlmrpics/image/upload/v16461
 
 
 #### Seminario Colef Monterrey. Día mundial del Agua.   
-![](Presentacion_MTY.mp4)
+![](Presentacion_MTY.mp4){width="90%"}
 
