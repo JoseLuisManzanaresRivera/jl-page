@@ -24,6 +24,11 @@ title: ""
 <iframe width="400" height="250" src="https://www.youtube.com/embed/hlPkDETcKmk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+#### Seminario Colef Monterrey. Día mundial del Agua.   
+**22 Marzo 2018**
+
+![](Presentacion_MTY.mp4){width="400" height="250"}
+
 
 ### Radio y Prensa
 
@@ -54,7 +59,4 @@ knitr::include_graphics("https://res.cloudinary.com/jlmrpics/image/upload/v16461
 
 
 
-
-#### Seminario Colef Monterrey. Día mundial del Agua.   
-![](Presentacion_MTY.mp4){width="400" height="250"}
 
