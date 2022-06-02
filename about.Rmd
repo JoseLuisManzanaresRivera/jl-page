@@ -16,7 +16,7 @@ Desde 2012 es miembro del Sistema Nacional de Investigadores del Consejo Naciona
 
 > Sus areas de interés incluyen:
 
-+ Modelación Estadística.
++ NLP, clasificacón de imágenes, percepción remota.
 
-+ Manejo de datos replicable en R
++ Manejo de datos replicable en R y  Python.
 
