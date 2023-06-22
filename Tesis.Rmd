@@ -14,7 +14,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 > **[Activa en proceso]()** Mortalidad por cáncer de pulmón: un enfoque sociodemográfico desde las estrategias preventivas de salud en México y Cuba, 1998 – 2021
 
-**Nombre del Alumno:** Eudis Nápoles Wilsons.
+**Nombre del Alumno:** Eudis Nápoles Wilson.
 
 **Programa:** Maestría en estudios de población.
 
