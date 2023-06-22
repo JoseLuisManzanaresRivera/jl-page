@@ -11,6 +11,11 @@ title: ""
 
 <iframe width="400" height="250" src="https://www.youtube.com/embed/uJMiS4pNzQ4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+#### Seminario Colef Unidad Nogales, Sonora.
+**Junio 21, 2023**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T0EB-5QrbCs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 #### Seminario Colef Sede Nogales, Sonora.
 **Enero 27, 2022**
 
