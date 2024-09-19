@@ -9,17 +9,15 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Dirección
 
-**Año:** 2024
 
-
-> **[Titulo: ](https://posgrado.colef.mx/tesis/20221654/)**Mortalidad por tumor maligno de tráquea, bronquios y pulmón diferenciales sociodemográficos en México y Cuba 2020.
+> **[Título:](https://posgrado.colef.mx/tesis/20221654/)**Mortalidad por tumor maligno de tráquea, bronquios y pulmón diferenciales sociodemográficos en México y Cuba 2020.
 
 **Nombre del Alumno:** Eudis Nápoles Wilson.
 
 **Programa:** Maestría en estudios de población.
 
+**Año:** 2024
 
-**Año:** 2014
 
 > **[Titulo:](https://www.colef.mx/posgrado/wp-content/uploads/2014/11/Tesis-Escobedo-Gonzalez.pdf)** La pérdida de empleo en las ciudades Méxicanas: Su relación con las características individuales y la recesión del 2008.
 
@@ -27,11 +25,11 @@ knitr::opts_chunk$set(echo = TRUE)
 
 **Programa:** Maestría en Economía Aplicada.
 
+**Año:** 2014
 ---
 
 ## Lectorias.
 
-**Año:** 2022
 
 >**[Titulo]()**  Análisis comparativo de las variaciones climáticas y modo de producción de miel en el corredor Balaan Kaax. Calakmul.
 
@@ -39,26 +37,27 @@ knitr::opts_chunk$set(echo = TRUE)
 
 **Programa:** Maestría en Gestión Integral del Ambiente.
 
+**Año:** 2022
 
-**Año:** 2016
 
->**[Titulo](https://colef.repositorioinstitucional.mx/jspui/handle/1014/363)** La adopción de tecnología como una forma de internalizar las externalidades ambientales del beneficiado de quinua en Oruro Bolivia 
+
+>**[Título ] (https://colef.repositorioinstitucional.mx/jspui/handle/1014/363)** La adopción de tecnología como una forma de internalizar las externalidades ambientales del beneficiado de quinua en Oruro Bolivia 
 
 **Nombre del Alumno:** María Teresa Del Barco Gamarra.
 
 **Programa:** Maestría en Gestión Integral del Agua
 
-
 **Año:** 2016
+
+
 
 >**[Titulo:](https://colef.repositorioinstitucional.mx/jspui/handle/1014/353) **Consumo de electricidad y crecimiento económico en México: análisis de series de tiempo y prospectiva.
 
 **Programa:** Maestría en Economía Aplicada.
 
 **Nombre del Alumno:** Nayib René Zamarripa Villa.
+**Año:** 2016
 
-
-**Año:** 2014
 
 > **[Titulo:](https://colef.repositorioinstitucional.mx/jspui/handle/1014/352)** Análisis del endeudamiento, la oferta de bienes públicos y el impacto de las transferencias intergubernamentales en los gobiernos locales de México.  
 
@@ -66,5 +65,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 **Programa:** Maestría en Economía Aplicada.
 
+**Año:** 2014
 
 
