@@ -82,7 +82,6 @@ Manzanares Rivera, José Luis,  2014, ["Uso de agua en la extracción de gas de 
 
 
 ###  Proyecto: Public Policy Analysis (PPA).
-***
 
 Es una línea en la que se analizan los impactos de acciones de política sobre segmentos de la población específicos. Las publicaciones generadas en esta línea consideran la participación de los mexicanos en Estados Unidos como un eje principal. La investigación generada en El Colef Nogales en esta línea, ha sido referencia de la evaluación que dependencias gubernamentales realizan de sus programas como es el caso de SEDESOL como da cuenta el Informe de Evaluación de la Política de Desarrollo Social 2016 disponible en.
 
@@ -90,6 +89,8 @@ Es una línea en la que se analizan los impactos de acciones de política sobre 
 
 
 ### Resultados de investigación. 
+
+Manzanares Rivera, Jose Luis, 2024. [Análisis de la recaudación por el impuesto especial a combustibles en el contexto de sus determinantes externos. In Replanteamiento de la estructura tributaria en México con objetivos de recaudación y distribución](https://drive.google.com/file/d/1FFI16P1DRup-hCvQnM0HhINKVaRKmrhb/view?usp=sharing) (pp. 105-134). **Universidad Autónoma Metropolitana**, Ediciones del Lirio. ISBN 978-607-28-2932-9.
 
 Manzanares Rivera, José Luis,  2020, [In Search for Land and Water: From Chihuahua, Mexico, to Santa Cruz, Bolivia](https://migracionesinternacionales.colef.mx/index.php/migracionesinternacionales/article/view/1920). Vol. 11 *Migraciones internacinales*. DOI https://doi.org/10.33679/rmi.v1i1.1920
 
