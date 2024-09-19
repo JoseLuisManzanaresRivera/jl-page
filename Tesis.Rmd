@@ -26,6 +26,7 @@ knitr::opts_chunk$set(echo = TRUE)
 **Programa:** Maestría en Economía Aplicada.
 
 **Año:** 2014
+
 ---
 
 ## Lectorias.
@@ -56,6 +57,7 @@ knitr::opts_chunk$set(echo = TRUE)
 **Programa:** Maestría en Economía Aplicada.
 
 **Nombre del Alumno:** Nayib René Zamarripa Villa.
+
 **Año:** 2016
 
 
