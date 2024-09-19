@@ -7,7 +7,7 @@ es un investigador mexicano especializado en el análisis de datos. Es doctor en
 
 Ha realizado trabajo de investigación en diversos paises entre ellos Chile y Australia.
 
-Desde 2012 es miembro del Sistema Nacional de Investigadores del Consejo Nacional de Ciencia y Tecnología y es autor de más de 20 publicaciones científicas, entre ellas artículos académicos en revistas especializadas en países como Argentina, Colombia, Costa Rica y Estados Unidos.  
+Es autor de más de multiples publicaciones científicas, entre ellas artículos académicos en revistas especializadas en países como Argentina, Colombia, Costa Rica y Estados Unidos.  
 
 [Redalyc](http://www.redalyc.org/autor.oa?id=20835)
 
@@ -16,7 +16,7 @@ Desde 2012 es miembro del Sistema Nacional de Investigadores del Consejo Naciona
 
 > Sus areas de interés incluyen:
 
-+ NLP, clasificacón de imágenes, percepción remota.
-
-+ Manejo de datos replicable en R y  Python.
++ Economía aplicada.
++ Análisis geoespacial
++ Manejo de datos replicable en **Posit**, análisis y modelación de datos usando el lenguaje **Python**.
 
