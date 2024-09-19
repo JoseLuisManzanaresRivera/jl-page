@@ -9,10 +9,10 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Dirección
 
-**Año:** 2023
+**Año:** 2024
 
 
-> **[Activa en proceso]()** Mortalidad por cáncer de pulmón: un enfoque sociodemográfico desde las estrategias preventivas de salud en México y Cuba, 1998 – 2021
+> **[Titulo](https://posgrado.colef.mx/tesis/20221654/)**Mortalidad por tumor maligno de tráquea, bronquios y pulmón diferenciales sociodemográficos en México y Cuba 2020.
 
 **Nombre del Alumno:** Eudis Nápoles Wilson.
 
