@@ -2,39 +2,43 @@
 title: "Cursos"
 ---
 
+*2024* Introducción a la Economía. Maestría en Acción pública y Desarrollo Social. 
+*Semestre 2024-01*  
+El Colef Ciudad Juárez
 
 *2022* Economía ambiental y ecológica del agua. Maestría Gestión integral del agua.
 *Semestre 2022-01*  
-Colef Monterrey 
+El Colef Monterrey 
 
 *2022* Introducción a la Economía. Maestría en Acción pública y Desarrollo Social. 
 *Semestre 2022-01*  
-Colef Ciudad Juárez
+El Colef Ciudad Juárez
 
 *2022* Estadística I. Maestría en Desarrollo Regional. 
 *Semestre 2022-01*  
-Colef Tijuana.
+El Colef Tijuana.
 
 *2019* Estadística II. Maestría en Estudios de Población. 
 *Semestre 2019-02*  
-Colef Tijuana.
+El Colef Tijuana.
 
 *2018* Teoría Económica. Maestría en Desarrollo Regional.       *Semestre 2018-01* 
+El Colef Tijuana.
 
 *2018* Economía Ambiental y Ecológica el Agua. 
 Maestría en gestión Integral del Agua. *Semestre 2018-01*
 [MAGIA-101-EAyEA-2018]()
-
+El Colef Monterrey.
 
 *2018* Teoría Económica.  Maestría en Desarrollo Regional.       *Semestre 2018-01* 
 
-Colef Tijuana.
+El Colef Tijuana.
 
 *2018* Economía Ambiental y Ecológica el Agua. 
 Maestría en gestión Integral del Agua. *Semestre 2018-01*
 [MAGIA-101-EAyEA-2018]()  
 
-Colef Monterrey.
+El Colef Monterrey.
 
 
 *2017* Instrumentos económicos para la gestión de los recursos hídricos
@@ -53,27 +57,27 @@ Maestría en Economía Aplicada.         *Semestre 2016-01*
 Maestría en gestión Integral del Agua. *Semestre 2016-02*
 
 
-Colef Monterrey
+El Colef Monterrey
 
 *2017* Sistemas Integrados de información de Tierra y Agua
 Maestría en gestión Integral del Agua. *Semestre 2017-01*
 
-Colef Monterrey
+El Colef Monterrey
 
 *2016* Seminario de Titulación II
 Maestría en gestión Integral del Agua. *Semestre 2016-01*
 
-Colef Monterrey
+El Colef Monterrey
 
 *2016* Seminario de Tesis
 Maestría en Economía Aplicada.         *Semestre 2016-01*
 
-Colef Tijuana
+El Colef Tijuana
 
 *2016* Propedéutico Estadística
 Maestría en gestión Integral del Agua. *Semestre 2016-02*
 
-Colef Monterrey
+El Colef Monterrey
 
 
 *2015* Instrumentos económicos para la gestión de los recursos hídricos.
@@ -86,13 +90,13 @@ Maestría en Economía Aplicada.         *Semestre 2015-02*
 
 **2018**  Herramientas de análisis Estadístico
 
-Colef Monterrey
+El Colef Monterrey
 
 
 *2015* Econometría II
 Maestría en Economía Aplicada.         *Semestre 2015-02*
 
-Colef Tijuana
+El Colef Tijuana
 
 
 
