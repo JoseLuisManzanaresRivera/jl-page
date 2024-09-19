@@ -12,7 +12,7 @@ knitr::opts_chunk$set(echo = TRUE)
 **Año:** 2024
 
 
-> **[Titulo](https://posgrado.colef.mx/tesis/20221654/)**Mortalidad por tumor maligno de tráquea, bronquios y pulmón diferenciales sociodemográficos en México y Cuba 2020.
+> **[Titulo:](https://posgrado.colef.mx/tesis/20221654/)**Mortalidad por tumor maligno de tráquea, bronquios y pulmón diferenciales sociodemográficos en México y Cuba 2020.
 
 **Nombre del Alumno:** Eudis Nápoles Wilson.
 
